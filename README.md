@@ -6,7 +6,8 @@ This is a portfolio website built using React, Tailwind CSS, and TypeScript. The
 
 <img src="./screenshot.jpg" alt="Screenshot" width="1080"/>
 
-You can also check out the live demo of the portfolio website [here](https://alpaycelik.dev).
+You can also check out the live demo of the portfolio website [here](https://alpaycelik.dev) or [here](https://my.jklaze.eu).
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/10ldf.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 ## Features
 
