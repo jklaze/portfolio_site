@@ -8,7 +8,7 @@ This is a portfolio website built using React, Tailwind CSS, and TypeScript. The
 
 You can also check out the live demo of the portfolio website [here](https://alpaycelik.dev) or [here](https://my.jklaze.eu).
 
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/10ldf.svg)](https://status.jklaze.eu)
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/10lfs.svg)](https://status.jklaze.eu)
 
 ## Features
 
